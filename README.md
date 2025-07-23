@@ -1,3 +1,3 @@
 # my_first_repository
 
-firsy repository!!!
+first repository!!! and Welcome to Git
